@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/raymondbalingit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-6a7c3663ad920f7bd4a329cbbc58d32743720de5.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/classes-6859dd13f669367ee86eb710076b034f40b9559f.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/classes-cfbd5dcfc96c809f4003775383b22a71cd0b2788.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/classes-918a46227c923ac90ba0beabf2ce43313a47e960.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/libs/craftar-image-recognition-sdk-2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53177e377e62a3c25e402b5c7ef9ecf35072f6a1">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/craftar-image-recognition-sdk-2.0-b83beeedf77aac205c35e43d07d01dc1e813ffde.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/libs/moodstocks.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="586483076cdf1b7d2a82a9715eebc42e923a3408">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/moodstocks-a0e67ac5f4c7cc61a5e78de6f6947359b8fc46c1.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/libs/sanselan-0.97-incubator.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8396778b076a2eaf62024b64f6d924e4e0095fca">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/sanselan-0.97-incubator-653a391aa3b9248011c000418b22f6b20cc172cb.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-191b94fb48fee734473008a893c12263088848f5.jar" />
+    </item>
+    <item
+        jar="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/raymondbalingit/Documents/Android/workspace/StellarIR/app/build/intermediates/pre-dexed/debug/classes-b9d6835770d1ae9d10c2e71e7c7d7da5479a9d75.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StellarIR</string>
+
+    <!-- Menu Items -->
+    <string name="menu_vuforia">Vuforia</string>
+    <string name="menu_catchoom">Catchoom IR</string>
+    <string name="menu_catchoom_ar">Catchoom AR</string>
+    <string name="menu_moodstocks">Moodstocks</string>
+
+    <string-array name="menu_items">
+        <item>@string/menu_vuforia</item>
+        <item>@string/menu_catchoom</item>
+        <item>@string/menu_catchoom_ar</item>
+        <item>@string/menu_moodstocks</item>
+    </string-array>
+</resources>
